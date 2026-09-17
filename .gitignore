@@ -3,3 +3,7 @@ __pycache__
 venv
 pyvenv.cfg
 .env
+*.docx
+docs/
+ssh_key/
+*.pem
